@@ -44,20 +44,19 @@
 
 ## 🛠️ Technical Architecture
 
-Study-Lens/
+LearnMate/
 ├── 🖥️ Frontend (Streamlit)
-│ ├── Interactive UI
-│ └── Responsive Sidebar + Theming
+│   ├── User Interface Components
+│   └── Responsive Design Elements
 ├── ⚙️ Backend (Python)
-│ ├── Document Processing Engine
-│ ├── Natural Language Understanding
-│ └── API Integrations
+│   ├── Document Processing Engine
+│   ├── Natural Language Understanding Module
+│   └── API Integrations
 └── 🧠 AI Core
-├── LangChain Framework
-├── OpenAI Integration
-├── HuggingFace Transformers
-└── Custom ML Models
-
+    ├── LangChain Framework
+    ├── OpenAI Integration
+    ├── HuggingFace Transformers
+    └── Custom ML Models
 
 
 ---
