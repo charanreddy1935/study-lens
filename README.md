@@ -93,7 +93,11 @@ cp .env.example .env
 # 5. Run the application
 streamlit run app.py
 
-![Uploading image.png…]()
+
+![Home Page](images/image.png)
+![Learning Path](images/image-1.png)
+![Quiz Generator](images/image-2.png)
+![Flashcards](images/image-3.png)
 
 ![alt text](image.png)
 
