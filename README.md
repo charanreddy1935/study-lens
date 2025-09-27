@@ -92,6 +92,9 @@ cp .env.example .env
 
 # 5. Run the application
 streamlit run app.py
+
+![Uploading image.png…]()
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
@@ -113,12 +116,8 @@ This project is licensed under the MIT License – see LICENSE
 
 👏 Acknowledgements
 
-OpenAI for LLM capabilities
-
+Google for LLM capabilities
 HuggingFace for transformers
-
 Streamlit for the web UI
 
 Amazing open-source contributors 💙
-
-<div align="center"> <b>Study Lens</b> — Your intelligent companion for smarter learning. </div> ```
