@@ -74,7 +74,7 @@
 
 ## 🚀 Getting Started
 
-```bash
+bash
 # 1. Clone the repository
 git clone https://github.com/Taskmaster-1/Study-Lens.git
 cd Study-Lens
@@ -92,6 +92,7 @@ cp .env.example .env
 
 # 5. Run the application
 streamlit run app.py
+
 
 
 ![alt text](https://raw.githubusercontent.com/charanreddy1935/study-lens/main/images/image.png)
