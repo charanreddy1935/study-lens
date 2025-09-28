@@ -76,7 +76,7 @@
 
 bash
 # 1. Clone the repository
-git clone https://github.com/Taskmaster-1/Study-Lens.git
+git clone https://github.com/charanreddy1935/Study-Lens.git
 cd Study-Lens
 
 # 2. Create virtual environment
