@@ -1,0 +1,14 @@
+Flask
+streamlit
+google-generativeai
+pytesseract
+PyPDF2
+python-docx
+google-cloud-texttospeech
+torch
+transformers
+python-dotenv
+google-cloud-speech
+#pyaudio
+scikit-learn
+google-cloud-translate
